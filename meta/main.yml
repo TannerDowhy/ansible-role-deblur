@@ -23,4 +23,4 @@ galaxy_info:
   galaxy_tags: ['biolighthouse', 'deblur']
 
 dependencies:
- - biolighthouse.conda
+ - tannerdowhy.conda
